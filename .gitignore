@@ -1,6 +1,14 @@
 .venv
+<<<<<<< HEAD
 /data/
 *.png
 *.jpg
 *.jpeg
 /icons
+=======
+# Ignore training data
+data/
+*.jpg
+*.png
+*.jpeg
+>>>>>>> b02147f6321d0c46c1ec402a1ded5824031f702c
