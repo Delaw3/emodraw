@@ -11,7 +11,8 @@ labels = {
     ord('3'): 'sun', 
     ord('4'): 'tree', 
     ord('5'): 'flower', 
-    ord('6'): 'car'
+    ord('6'): 'car',
+    ord('7'): 'pot',
     } #Data folder created here
 
 for label in labels.values():
